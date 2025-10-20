@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Shenzzz
+# 👋 Hi, I'm shenz
 
-💻 Passionate developer who loves creating interactive apps using **Python** and **Flet**.
+💻 Passionate developer who loves creating interactive apps using **Python** 
 
 ---
 
